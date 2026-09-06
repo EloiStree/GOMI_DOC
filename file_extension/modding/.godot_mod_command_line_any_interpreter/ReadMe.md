@@ -1,0 +1,1 @@
+Add an interpreter that works on any command.

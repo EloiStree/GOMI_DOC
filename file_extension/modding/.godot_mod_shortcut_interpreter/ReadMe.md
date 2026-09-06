@@ -23,6 +23,8 @@ func interpret_given_word(word: String) -> void:
 ```gdscript
 extends Node
 
+# Code 
+
 func is_able_to_interpret_given_word(word: String) -> bool:
 	return _dictionary_keyword_to_url.has(word)
 
