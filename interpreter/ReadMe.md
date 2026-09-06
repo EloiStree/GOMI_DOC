@@ -23,6 +23,13 @@ However, you can create your own project using your GDExtensions or interact wit
 You can add your own `Gate In` in GDScript if, for example, you prefer MQTT or something else.   
 
 
+Note: If you are a bit geeky and learned `GDScript`  
+You can add your own code in it and just code your macro in GDScript.   
+A `not code` UI will be added later with the native Graph of Godot.
+
+( I want to add Godot Block Coding Plugin in GOMI. 
+But I need to check if it does not break too much. )
+
 ------------------
 
 
